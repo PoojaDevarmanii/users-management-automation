@@ -1,0 +1,6 @@
+# username; group1,group2
+light; sudo,dev,www-data
+siyoni; sudo
+manoj; dev,www-data
+# a comment line is ignored
+pooja ; devops ,www-dataa
